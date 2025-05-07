@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <h2> Key Projects:</h2>
 
-- <b>AWS - HashiCorp Terraform  (LAMP Stack deployment - AWS EC2 Auto Scaling)</b>
-  - [Configuring On-premises Active Directory within AWS VMs](https://github.com/cdoukoure/aws-configure-ad)
+- <b>AWS - Terraform - Ansible (LAMP Stack deployment - AWS EC2 Auto Scaling)</b>
+  - [Prerequisites and Installation](https://github.com/cdoukoure/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cdoukoure/aws-network-protocols) (Video in progress)
   - [Basic DNS Configuration & Testing](https://github.com/cdoukoure/dns-config) (Video in progress)
     
