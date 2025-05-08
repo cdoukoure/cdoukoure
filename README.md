@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <h2>Certifications:</h2>
 <ul>
-  <li><b>AZ-104- -  Microsoft Certified: Azure Administrator Associate</b></li>
+  <li><b>AZ-104 -  Microsoft Certified: Azure Administrator Associate</b></li>
   <li><b>Sangoma SBC Certified Essentials</li>
   <li><b>ET15 - Sophos Central Endpoint and Server v2.0 - Engineer</b> (Proficient in Wireshark/TCPdump)</li>
   <li><b>CCNA Exploration - Network fondamentals</li>
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <h2>Currently Training:</h2>
 <ul>
   <li><b>HashiCorp Certified: Terraform Associate (Expected June 2025)</li>
-  <li><b>AZ-400- - Microsoft Certified: DevOps Engineer Expert  (Expected December 2025)</li>
-  <li><b>SC-300- - Microsoft Certified: Identity and Access Administrator Associate (Expected December 2025)</li>
+  <li><b>AZ-400 - Microsoft Certified: DevOps Engineer Expert  (Expected December 2025)</li>
+  <li><b>SC-300 - Microsoft Certified: Identity and Access Administrator Associate (Expected December 2025)</li>
 </ul>
 
 
