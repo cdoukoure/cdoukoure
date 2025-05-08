@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <ul>
   <li><b>AZ-104 -  Microsoft Certified: Azure Administrator Associate</b></li>
   <li><b>Sangoma SBC Certified Essentials</li>
-  <li><b>ET15 - Sophos Central Endpoint and Server v2.0 - Engineer</b> (Proficient in Wireshark/TCPdump)</li>
+  <li><b>ET15 - Sophos Central Endpoint and Server v2.0 - Engineer</b> <!-- (Proficient in Wireshark/TCPdump) --></li>
   <li><b>CCNA Exploration - Network fondamentals</li>
   <li><b>CourseCareers IT Professional</b></li>
 </ul>
