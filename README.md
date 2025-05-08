@@ -22,27 +22,38 @@ Here are some ideas to get you started:
 <h2> Key Projects:</h2>
 
 - <b>AWS - Terraform - Ansible (LAMP Stack deployment - AWS EC2 Auto Scaling)</b>
+  <!--
   - [Prerequisites and Installation](https://github.com/cdoukoure/aws-lamp-prerequisites)
   - [AWS and IAM Credentials](https://github.com/cdoukoure/aws-lamp-iam-credentialq) 
   - [Deploying Architecture and Configure System](https://github.com/cdoukoure/aws-lamp-deployment)
   - (Video in progress)
+  ->
  
 - <b>AWS - Terraform - Ansible (Active Directory | DNS)</b>
+  <!--
   - [Configuring On-premises Active Directory within AWS VMs](https://github.com/cdoukoure/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cdoukoure/aws-network-protocols) (Video in progress)
   - [Basic DNS Configuration & Testing](https://github.com/cdoukoure/dns-config)
   - (Video in progress)
+  -->
     
 - <b>Zimbra Mailserver (Deploy Zimbra in a multi server architecture)</b>
+  <!--
   - [Zimbra: Prerequisites and Installation](https://github.com/cdoukoure/zimbra-pre-installation) 
   - [Zimbra: Post-Installation Configuration](https://github.com/cdoukoure/zimbra-postinstallation-config)
   - [Zimbra: Mailbox migration ](https://github.com/cdoukoure/zimbra-mailbox-migration)
- 
+  -->
+<!--
 - <b>Pro, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
   - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
+-->
 
-- <b>Coding Languages</b>
-  - [Bash Algorithm for Backup and Restore Zimbra Account Mailbox ](https://github.com/cdoukoure/zimbra-export-account)
+- <b>Scripting & Coding Languages</b>
+  <!-- [Bash Algorithm for Backup and Restore Zimbra Account Mailbox ](https://github.com/cdoukoure/zimbra-export-account) -->
+  - Python
+  - Bash, Powershell
+  - Angular, Node.js, NestJS
+  - HTML, CSS/SCSS/LESS
 
 <h2>Certifications:</h2>
 <ul>
