@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h2> Key Projects:</h2>
 
 - <b>LAMP Stack Deployment (AWS EC2 Auto Scaling - AWS RDS for MySQL - Terraform - Ansible and more)</b>
+  - https://github.com/cdoukoure/iac-aws-lamp-stack
   <!--
   - [Prerequisites and Installation](https://github.com/cdoukoure/aws-lamp-prerequisites)
   - [AWS and IAM Credentials](https://github.com/cdoukoure/aws-lamp-iam-credentialq) 
