@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <li><b>Sangoma SBC Certified Essentials</li>
   <li><b>ET15 - Sophos Central Endpoint and Server v2.0 - Engineer</b> <!-- (Proficient in Wireshark/TCPdump) --></li>
   <li><b>CCNA Exploration - Network fondamentals</li>
-  <li><b>CourseCareers IT Professional</b></li>
+  <!--<li><b>CourseCareers IT Professional</b></li>-->
 </ul>
 
 <h2>Currently Training:</h2>
