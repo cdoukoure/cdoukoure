@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Charles, an <a href="https://linkedin.com/in/cdoukoure/">IT Professional.</a></h1> 
 
-<h2>Cloud & DevOps | Azure & AWS ☁️ | Automation & Infrastructure as Code</h2>
+<!-- <h2>Cloud & DevOps | Azure & AWS ☁️ | Automation & Infrastructure as Code</h2> -->
+<h2>☁️ Cloud Specialist | 🛠️ DevOps Advocate | 💻 Web Dev Enthusiast</h2>
 
 <h2> Key Projects:</h2>
 
@@ -52,9 +53,18 @@ Here are some ideas to get you started:
 - <b>Scripting & Coding Languages</b>
   <!-- [Bash Algorithm for Backup and Restore Zimbra Account Mailbox ](https://github.com/cdoukoure/zimbra-export-account) -->
   - Python
-  - Bash, Powershell
   - Angular, Node.js, NestJS
   - HTML, CSS/SCSS/LESS
+
+<h2>Tech Stack:</h2>
+<ul>
+  <li><b>Cloud & DevOps: </b> Azure/AWS, Terraform, Ansible, Docker</li>
+  <li><b>Network & Security: </b> Cisco, Fortinet, Unify</li>
+  <li><b>Web: </b> HTML/CSS, React, Angular, Node.js, NestJS</li>
+  <li><b>Scripting: </b> Python, Typescript</li>
+  <li><b>DB: </b> MySQL, PostgreSQL, DynamoDB, Redis</li>
+</ul>
+
 
 <h2>Certifications:</h2>
 <ul>
