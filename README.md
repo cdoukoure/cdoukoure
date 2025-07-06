@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   - [Zimbra: Mailbox migration ](https://github.com/cdoukoure/zimbra-mailbox-migration)
   -->
 - <b> Monitoring with Prometheus + Grafana | Exporter for Zimbra multi-node
-  - https://github.com/cdoukoure/zimbra-grafana-prometheus
+  - [Deploying Grafana + Prometheus on Docker - Included custom exporter and dashboard for Zimbra 10 ](https://github.com/cdoukoure/zimbra-grafana-prometheus)
 <!--
 - <b>Pro, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
   - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
