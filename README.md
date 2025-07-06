@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   - [Zimbra: Post-Installation Configuration](https://github.com/cdoukoure/zimbra-postinstallation-config)
   - [Zimbra: Mailbox migration ](https://github.com/cdoukoure/zimbra-mailbox-migration)
   -->
+- <b> Monitoring with Prometheus + Grafana | Exporter for Zimbra multi-node
+  - https://github.com/cdoukoure/zimbra-grafana-prometheus
 <!--
 - <b>Pro, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
   - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
