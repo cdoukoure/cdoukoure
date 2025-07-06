@@ -50,17 +50,19 @@ Here are some ideas to get you started:
   - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
 -->
 
-- <b>Scripting & Coding Languages</b>
+- <b>Scripting & Programming Languages</b>
   <!-- [Bash Algorithm for Backup and Restore Zimbra Account Mailbox ](https://github.com/cdoukoure/zimbra-export-account) -->
   - Python
   - Angular, Node.js, NestJS
+  - PHP/Laravel [https://github.com/cdoukoure/conic-chantier]
+  - PHP/Wordpress [https://github.com/cdoukoure/first-realestate]
   - HTML, CSS/SCSS/LESS
 
 <h2>Tech Stack:</h2>
 <ul>
   <li><b>Cloud & DevOps: </b> Azure/AWS, Terraform, Ansible, Docker</li>
   <li><b>Network & Security: </b> Cisco, Fortinet, Unify</li>
-  <li><b>Web: </b> HTML/CSS, React, Angular, Node.js, NestJS</li>
+  <li><b>Web: </b> HTML/CSS, React, Angular, Node.js, NestJS, PHP</li>
   <li><b>Scripting: </b> Python, Typescript</li>
   <li><b>DB: </b> MySQL, PostgreSQL, DynamoDB, Redis</li>
 </ul>
