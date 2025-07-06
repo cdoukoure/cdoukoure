@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   -->
     
 - <b>Zimbra Mailserver (Deploy Zimbra in a multi server architecture)</b>
+  - [Zimbra: Set of bash script for backup and restore Zimbra nodes datas](https://github.com/cdoukoure/zimbra-migration-tools)
   <!--
   - [Zimbra: Prerequisites and Installation](https://github.com/cdoukoure/zimbra-pre-installation) 
   - [Zimbra: Post-Installation Configuration](https://github.com/cdoukoure/zimbra-postinstallation-config)
